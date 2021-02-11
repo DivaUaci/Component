@@ -7,12 +7,12 @@
     <v-list-item three-line>
       <v-list-item-content>
         <div class="overline mb-4">
-            OLA {{ nome }}
+            Oi querida {{ nome }}
         </div>
         <v-list-item-title class="headline mb-1">
-          Welcome to Vuetify
+          Seja bem vinda 
         </v-list-item-title>
-        <v-list-item-subtitle>a basic lesson for the use of Vuetify</v-list-item-subtitle>
+        <v-list-item-subtitle>Dia do amor vem ai, tire um tempinho pra si.</v-list-item-subtitle>
       </v-list-item-content>
 
       <v-list-item-avatar
